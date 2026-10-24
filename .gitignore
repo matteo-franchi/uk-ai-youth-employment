@@ -1,0 +1,10 @@
+# Raw data and LFS microdata: never uploaded (LFS licence forbids redistribution)
+dati/
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Mac system files
+.DS_Store
